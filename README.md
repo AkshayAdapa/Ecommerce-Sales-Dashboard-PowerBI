@@ -1,3 +1,7 @@
+<div style="text-align:center;">
+  <img src="https://github.com/AkshayAdapa/Ecommerce-Sales-Dashboard-PowerBI/raw/main/Ecommerce%20sales%20dashboard%20screen%20short.png" width="600">
+</div>
+
 # Ecommerce Shop Sales Dashboard
 
 ## Overview
@@ -34,5 +38,5 @@ This Power BI project aims to create an interactive dashboard for tracking and a
 - **Website Optimization:** Enhance website usability to improve conversion rates and customer satisfaction.
 
 ## Contributors
-- [Akshay Kumar]
+- Akshay Kumar
 
